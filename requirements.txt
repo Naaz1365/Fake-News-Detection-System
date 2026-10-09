@@ -5,3 +5,7 @@ scipy==1.18.1
 scikit-learn==1.6.1
 gensim==4.4.0
 xgboost==3.4.1
+
+textstat==0.7.13
+textblob==0.20.1
+pytest==9.1.1
