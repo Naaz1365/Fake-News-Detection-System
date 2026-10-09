@@ -1,0 +1,1 @@
+Dataset: UKPLab LIAR binary dataset. Training was performed in Google Colab.
